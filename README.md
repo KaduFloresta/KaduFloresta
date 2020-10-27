@@ -5,10 +5,28 @@
  
  :octocat:<code><b>Kadu Floresta</b></code></a> 
  
- <code><a href="https://github.com/KaduFloresta" title="HomeGit">🏠 GitHub - Home</a><br></code><br>
- <code><a href="https://github.com/KaduFloresta?tab=repositories" title="RepoGit">📂 GitHub - Repositórios</a><br></code>
+ <h3> 👨🏻‍💻 About Me </h3>
 
-<code>👋🏽 Entre em contato!</code>
+- 🔭 &nbsp; I am currently learning web development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas.
+- 💼 &nbsp; Front-end web developer.
+- 🌱 &nbsp; Enthusiastic about developing interfaces and new ways of user / system interaction.
+- ✍️ &nbsp; Watching Series and Movies and trying out latest design trends as hobbies.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C++ | Java | C# 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | JQUery | NodeJS
+- 🛢 &nbsp; MySQL | Xampp
+- 🔧 &nbsp; Visual Studio code | Git
+- 🖥 &nbsp; Illustrator | Photoshop
+ 
+ <code><a href="https://github.com/KaduFloresta" title="HomeGit">🏠 GitHub - Home</a><br></code><br>
+ <code><a href="https://github.com/KaduFloresta?tab=repositories" title="RepoGit">📂 GitHub - Repositories</a><br></code>
+
+<code>👋🏽 Connect with Me!</code>
 
 [![Facebook Badge](https://img.shields.io/badge/-Kadu_Floresta-lightblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/kadu.floresta)](https://www.facebook.com/kadu.floresta)
 [![Twitter Badge](https://img.shields.io/badge/-@kadu_kururu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kadu_kururu)](https://twitter.com/kadu_kururu)
