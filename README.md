@@ -32,6 +32,7 @@
 - 🌱 &nbsp; Enthusiastic about developing interfaces and new ways of user / system interaction.
 - ✍️ &nbsp; Watching Series and Movies and trying out latest design trends as hobbies.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 💬 &nbsp; Educational institution: Senac (National Commercial Learning Service).
 
 <h3>🛠 Tech Stack</h3>
 
@@ -49,4 +50,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduFloresta&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/KaduFloresta/github-readme-stats)
 
-![Análise e Desenvolvimento de Sistemas - Senac 2019](https://www.liveondemand.com.br/wp-content/uploads/2019/05/logo-SENAC.png)
+<hr>
