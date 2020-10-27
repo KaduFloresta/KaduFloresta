@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/kadufloresta/">
  <img style="border-radius: 5px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFfIeRf3UDQ9Q/profile-displayphoto-shrink_400_400/0?e=1605139200&v=beta&t=vWVjctWELGPrf-DrfqlwmBWjl88lk6ZwKTUJoCIkI_I" width="100px; alt=""/></b>
  
- <code><b>Kadu Floresta</b></code></a>
+ :octocat:<code><b>Kadu Floresta</b></code></a> 
  
  <code><a href="https://github.com/KaduFloresta" title="HomeGit">🏠 GitHub - Home</a><br></code><br>
  <code><a href="https://github.com/KaduFloresta?tab=repositories" title="RepoGit">📂 GitHub - Repositórios</a><br></code>
@@ -15,6 +15,7 @@
 <br>
 [![Linkedin Badge](https://img.shields.io/badge/-Kadu_Floresta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadufloresta/)](https://www.linkedin.com/in/kadufloresta/)
 [![Gmail Badge](https://img.shields.io/badge/-cefloresta1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cefloresta1@gmail.com)](mailto:cefloresta1@gmail.com)
- 
+---
+[![KaduFloresta's github stats](https://github-readme-stats.vercel.app/api?username=KaduFloresta)](https://github.com/KaduFloesta/github-readme-stats)
 ---
 ![Análise e Desenvolvimento de Sistemas - Senac 2019](https://www.liveondemand.com.br/wp-content/uploads/2019/05/logo-SENAC.png)
