@@ -4,16 +4,17 @@
 <a href="https://www.linkedin.com/in/kadufloresta/">
  <img style="border-radius: 5px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFfIeRf3UDQ9Q/profile-displayphoto-shrink_400_400/0?e=1605139200&v=beta&t=vWVjctWELGPrf-DrfqlwmBWjl88lk6ZwKTUJoCIkI_I" width="100px; alt=""/></b>
  
- :octocat:<code><b>Kadu Floresta</b></code></a> 
+ <code><b>Kadu Floresta</b></code></a> 
  
  <br>
  
- <code><a href="https://github.com/KaduFloresta" title="HomeGit">🏠 GitHub - Home</a><br></code><br>
- <code><a href="https://github.com/KaduFloresta?tab=repositories" title="RepoGit">📂 GitHub - Repositories</a><br></code>
+ <h3>:octocat: GitHub!</h3>
+ <code><a href="https://github.com/KaduFloresta" title="HomeGit">🏠 - Home</a><br></code><br>
+ <code><a href="https://github.com/KaduFloresta?tab=repositories" title="RepoGit">📂 - Repositories</a><br></code>
  
  <br>
 
-<code>👋🏽 Connect with Me!</code>
+<h3>⭐ Connect with Me!</h3>
 
 [![Facebook Badge](https://img.shields.io/badge/-Kadu_Floresta-lightblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/kadu.floresta)](https://www.facebook.com/kadu.floresta)
 [![Twitter Badge](https://img.shields.io/badge/-@kadu_kururu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kadu_kururu)](https://twitter.com/kadu_kururu)
