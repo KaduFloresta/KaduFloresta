@@ -11,7 +11,7 @@
  
  <br>
 
-<h3>⭐ Connect with Me!</h3>
+<h3>⭐ Find me on the WEB!</h3>
 
 [![Facebook Badge](https://img.shields.io/badge/-Kadu_Floresta-lightblue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/kadu.floresta)](https://www.facebook.com/kadu.floresta)
 [![Twitter Badge](https://img.shields.io/badge/-@kadu_kururu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kadu_kururu)](https://twitter.com/kadu_kururu)
@@ -49,3 +49,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduFloresta&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/KaduFloresta/github-readme-stats)
 
 <hr>
+
+⭐️ Thanks [devSouvik](https://github.com/devSouvik) for creating and [kautukkundan](https://github.com/kautukkundan) for sharing. 🙏
