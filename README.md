@@ -46,15 +46,15 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduFloresta&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/KaduFloresta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduFloresta&show_icons=true&theme=merko)](https://github.com/KaduFloresta/github-readme-stats)
 
 <hr>
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KaduFloresta&layout=compact&text_color=daf7dc&bg_color=151515&repo=KaduFloresta&show_owner=true)](https://github.com/KaduFloresta/KaduFloresta)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KaduFloresta&show_icons=true&theme=merko&repo=KaduFloresta&show_owner=true)](https://github.com/KaduFloresta/KaduFloresta)
 <br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KaduFloresta&layout=compact&text_color=daf7dc&bg_color=151515&repo=CSharp_BlockBuster_MVC_LINQ_API-BD_FORMS&show_owner=true)](https://github.com/KaduFloresta/CSharp_BlockBuster_MVC_LINQ_API-BD_FORMS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KaduFloresta&show_icons=true&theme=merko&repo=CSharp_BlockBuster_MVC_LINQ_API-BD_FORMS&show_owner=true)](https://github.com/KaduFloresta/CSharp_BlockBuster_MVC_LINQ_API-BD_FORMS)
 
 <hr>
 
