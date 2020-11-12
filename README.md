@@ -53,7 +53,6 @@
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KaduFloresta&show_icons=true&theme=merko&repo=KaduFloresta&show_owner=true)](https://github.com/KaduFloresta/KaduFloresta)
-<br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KaduFloresta&show_icons=true&theme=merko&repo=CSharp_BlockBuster_MVC_LINQ_API-BD_FORMS&show_owner=true)](https://github.com/KaduFloresta/CSharp_BlockBuster_MVC_LINQ_API-BD_FORMS)
 
 <hr>
