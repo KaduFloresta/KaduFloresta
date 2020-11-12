@@ -29,7 +29,7 @@
 - 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; Enthusiastic about developing interfaces and new ways of user / system interaction.
 - ✍️ &nbsp; Watching Series and Movies and trying out latest design trends as hobbies.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 - 💬 &nbsp; Educational institution: Senac (National Commercial Learning Service).
 
 <h3>🛠 Tech Stack</h3>
