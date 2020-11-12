@@ -42,11 +42,19 @@
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KaduFloresta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="KaduFloresta's Github Stats">
+[![KaduFloresta's github stats](https://github-readme-stats.vercel.app/api?username=KaduFloresta&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/KaduFloresta)
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduFloresta&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/KaduFloresta/github-readme-stats)
+
+<hr>
+
+### Github Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KaduFloresta&layout=compact&text_color=daf7dc&bg_color=151515&repo=KaduFloresta&show_owner=true)](https://github.com/KaduFloresta/KaduFloresta)
+<br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KaduFloresta&layout=compact&text_color=daf7dc&bg_color=151515&repo=CSharp_BlockBuster_MVC_LINQ_API-BD_FORMS&show_owner=true)](https://github.com/KaduFloresta/CSharp_BlockBuster_MVC_LINQ_API-BD_FORMS)
 
 <hr>
 
