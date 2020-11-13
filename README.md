@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/KaduFloresta/KaduFloresta/blob/main/img/1.gif" width="500";/>
 
 <a href="https://www.linkedin.com/in/kadufloresta/">
- <img src="img/profile.png" width="150px; alt=""/></b></a>  
+ <img src="img/profile.png" width="120px; alt=""/></b></a>  
  <br>
  
  <h3>:octocat: GitHub!</h3>
