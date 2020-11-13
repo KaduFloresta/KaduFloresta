@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Kadu Floresta. <img src="img/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="img/gif1.gif" width="500";/>
+<img align="right" alt="GIF" src="img/gif1.gif" width="470";/>
 
 <a href="https://www.linkedin.com/in/kadufloresta/">
  <img src="img/profile.png" width="120px; alt=""/></b></a>  
