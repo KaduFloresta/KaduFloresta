@@ -34,10 +34,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Java | C# 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | JQuery | NodeJS
+- 💻 &nbsp; C++ | Java | C#
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | JQuery | NodeJS | Vue
 - 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | Git | Android Studio 
 - 🖥 &nbsp; Illustrator | Photoshop
 
 <hr>
