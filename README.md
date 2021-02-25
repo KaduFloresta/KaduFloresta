@@ -23,7 +23,7 @@
  
  <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I am currently learning web development
+- 🔭 &nbsp; I am currently learning web and mobile development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Analysis and Systems Development.
 - 💼 &nbsp; Front-end web developer.
