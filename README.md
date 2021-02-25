@@ -36,8 +36,8 @@
 
 - 💻 &nbsp; C++ | Java | C#
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | JQuery | NodeJS | Vue
-- 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; Visual Studio code | Git | Android Studio 
+- 🛢 &nbsp; MySQL | Xampp | WorkBench
+- 🔧 &nbsp; Visual Studio Code | Git | Android Studio 
 - 🖥 &nbsp; Illustrator | Photoshop
 
 <hr>
