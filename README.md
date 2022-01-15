@@ -23,19 +23,20 @@
  
  <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I am currently learning web and mobile development
+- 🔭 &nbsp; I am currently learning web and mobile (Android) development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Analysis and Systems Development.
-- 💼 &nbsp; Front-end web developer.
+- 🎓 &nbsp; Studying android development (Java) and graduated in Systems Analysis and Development.
+- 💼 &nbsp; Front-end web and mobile developer.
 - 🌱 &nbsp; Enthusiastic about developing interfaces and new ways of user / system interaction.
-- ✍️ &nbsp; Watching Series and Movies and trying out latest design trends as hobbies.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ✍️ &nbsp; Watch series and movies and experience the latest app design trends as hobbies.
+- ☕ &nbsp; I believe that a perfect cup of coffee or chocolate can be the ultimate solution to any stress. 
 - 💬 &nbsp; Educational institution: Senac (National Commercial Learning Service).
+- 💬 &nbsp; Complementary Course: Udemy - Android development (In progress).
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Java | C#
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | JQuery | NodeJS | Vue
+- 💻 &nbsp; C++ | Java | C# |
+- 🌐 &nbsp; HTML + CSS | JavaScript | Bootstrap | JQuery | NodeJS | Vue
 - 🛢 &nbsp; MySQL | Xampp | WorkBench
 - 🔧 &nbsp; Visual Studio Code | Git | Android Studio 
 - 🖥 &nbsp; Illustrator | Photoshop
