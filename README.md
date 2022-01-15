@@ -25,13 +25,13 @@
 
 - 🔭 &nbsp; I am currently learning web and mobile (Android) development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying android development (Java) and graduated in Systems Analysis and Development.
-- 💼 &nbsp; Front-end web and mobile developer.
+- 🎓 &nbsp; Educational institution: Senac (National Commercial Learning Service).
+- 📝 &nbsp; Graduated in Systems Analysis and Development.
+- 💬 &nbsp; Complementary Course: Udemy - Android development Java (In progress).
+- 💼 &nbsp; Web and mobile front end developer.
 - 🌱 &nbsp; Enthusiastic about developing interfaces and new ways of user / system interaction.
 - ✍️ &nbsp; Watch series and movies and experience the latest app design trends as hobbies.
-- ☕ &nbsp; I believe that a perfect cup of coffee or chocolate can be the ultimate solution to any stress. 
-- 💬 &nbsp; Educational institution: Senac (National Commercial Learning Service).
-- 💬 &nbsp; Complementary Course: Udemy - Android development (In progress).
+- ☕ &nbsp; I believe that a perfect cup of coffee or chocolate can be the ultimate solution to any stress.
 
 <h3>🛠 Tech Stack</h3>
 
