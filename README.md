@@ -18,14 +18,12 @@
 
 </div>
 
-
 ---
 
 ## 🌐 Find me on the web
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/kadufloresta/
 - 📧 Email: cefloresta1@gmail.com
-- 💻 GitHub: https://github.com/KaduFloresta
 
 ---
 
