@@ -39,20 +39,6 @@
 - 🖥 &nbsp; Illustrator | Photoshop
 
 <hr>
-
-[![KaduFloresta's github stats](https://github-readme-stats.vercel.app/api?username=KaduFloresta&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/KaduFloresta)
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduFloresta&show_icons=true&theme=merko)](https://github.com/KaduFloresta/github-readme-stats)
-
-<hr>
-
-### Github Repos
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KaduFloresta&show_icons=true&theme=merko&repo=JavaScript_WebSite&show_owner=true)](https://github.com/KaduFloresta/JavaScript_WebSite)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KaduFloresta&show_icons=true&theme=merko&repo=CSharp_BlockBuster_MVC_LINQ_API-BD_FORMS&show_owner=true)](https://github.com/KaduFloresta/CSharp_BlockBuster_MVC_LINQ_API-BD_FORMS)
-
 <hr>
 
 ⭐️ Thanks [devSouvik](https://github.com/devSouvik) for creating and [kautukkundan](https://github.com/kautukkundan) for sharing. 🙏
