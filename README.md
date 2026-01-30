@@ -1,9 +1,23 @@
-# Hey there! I'm **Kadu Floresta** <img src="img/Hi.gif" width="25"></h2>
-<a href="https://www.linkedin.com/in/kadufloresta/">
-<img src="img/profile.png" width="120" alt="Profile photo"/>
+<div align="center">
 
-🎯 **Android Developer | Kotlin | MVVM | Scrum**  
-💡 Passionate about clean code, scalable architecture, and great user experiences.
+# Hey there! I'm **Kadu Floresta** <img src="img/Hi.gif" width="25" />
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/kadufloresta/">
+        <img src="img/profile.png" width="120" alt="Profile photo" />
+      </a>
+    </td>
+    <td align="left">
+      🎯 <strong>Android Developer | Kotlin | MVVM | Scrum</strong><br/>
+      💡 Passionate about clean code, scalable architecture, and great user experiences.
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
